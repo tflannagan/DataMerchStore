@@ -1,0 +1,15 @@
+.shopping-cart {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.cart-items {
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 20px;
+}
+
+.cart-total {
+  text-align: right;
+  margin-top: 20px;
+}
