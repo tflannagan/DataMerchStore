@@ -1,8 +1,20 @@
-# React + Vite
+# DataMerch
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the DataMerch repository, the home of our e-commerce platform specializing in merchandise for Machine Learning and Data enthusiasts. From trendy T-shirts to comfortable shorts, our store celebrates the world of data science and AI.
+![image 2](https://github.com/tflannagan/DataMerchStore/assets/50556963/27a737e2-4c30-4a5c-bfa3-a70a2583f294)
+## Overview
 
-Currently, two official plugins are available:
+DataMerch is designed for those who breathe data. Whether you're a data scientist, a machine learning engineer, or just a fan of AI, our range of merchandise is tailored to express your passion for the field.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Product Catalog**: A diverse range of ML and Data-themed merchandise.
+- **Shopping Cart**: Easy add-to-cart and checkout functionality.
+- **User Authentication**: Secure login and user profile management.
+- **Responsive Design**: Fully responsive design for a seamless shopping experience on any device.
+- **Search and Filter**: Quickly find products with intuitive search and filtering options.
+
+## Contributing
+
+This project is purely for educational purposes, but thank you for your contributions 🥰
+
