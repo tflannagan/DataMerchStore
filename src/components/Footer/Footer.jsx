@@ -63,8 +63,7 @@ function Footer() {
       </div>
       <div className="footer-bottom">
         <p>
-          &copy; {new Date().getFullYear()} DataShirts, Inc. All rights
-          reserved.
+          &copy; {new Date().getFullYear()} DataMerch, Inc. All rights reserved.
         </p>
       </div>
     </footer>

@@ -6,10 +6,10 @@
 
 .cart-items {
   border-bottom: 1px solid #ddd;
-  margin-bottom: 20px;
+ margin: 2rem 0rem; 
 }
 
 .cart-total {
   text-align: right;
-  margin-top: 20px;
+  margin: 2rem 2rem; 
 }
